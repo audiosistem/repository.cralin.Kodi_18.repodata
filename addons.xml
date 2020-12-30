@@ -17,22 +17,6 @@
       <assets></assets>
     </extension>
   </addon>
-  <addon id="repository.cralin.Kodi_18" name="cralin's Repository for Kodi 18.x (Leia)" version="1.0.0" provider-name="cralin">
-    <extension point="xbmc.addon.repository" name="cralin's repository for Kodi 18.x (Leia)">
-        <info compressed="false">https://github.com/cralin/repository.cralin.Kodi_18/raw/master/addons.xml</info>
-        <checksum>https://github.com/cralin/repository.cralin.Kodi_18/raw/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://github.com/cralin/repository.cralin.Kodi_18/raw/master/.packages</datadir>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-      <platform>all</platform>
-      <description lang="en">cralin's repository for Kodi 18.x (Leia)</description>
-      <license></license>
-      <language></language>
-      <website></website>
-      <news></news>
-      <assets></assets>
-    </extension>
-  </addon>
 
   <addon id="plugin.video.DigiOnline.ro" provider-name="cralin" name="DigiOnline.ro" version="1.0.16">
     <requires>
